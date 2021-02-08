@@ -2,6 +2,8 @@ Clash of Particles!
 
 This C project simulates particles enclosed in a box. The environment is frictionless and with each particle initialised with a velocity and a direction, the clash of particles may begin.
 
+Use "make run" to launch the simulator.
+
 Enjoy!
 
 PS: Use the Valgrind Version (t_max = 10) when running clash of particles with Valgrind, else it will be quite the wait. 
